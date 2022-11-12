@@ -11,7 +11,7 @@
 ![Luana Carvalho GitHub Status](https://github-readme-stats.vercel.app/api?username=LuaCarvalho&show_icons=true&theme=highcontrast)
 
 
-### Tecnologias que estou estudando
+### Tecnologias que estou estudando:
 
 
   <div style="display: inline_block"><br/>
