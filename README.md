@@ -6,14 +6,12 @@
 ### 📫 Como entrar em contato comigo:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-carvalho-312341210/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luacarvalho)]([https://github.com/luacarvalho/github-readme-stats](https://github.com/LuaCarvalho))
+
 
 ![Luana Carvalho GitHub Status](https://github-readme-stats.vercel.app/api?username=LuaCarvalho&show_icons=true&theme=highcontrast)
 
 
-##Tecnologias que estou estudando
-
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+### Tecnologias que estou estudando
 
 
   <div style="display: inline_block"><br/>
